@@ -18,6 +18,7 @@ terraform {
   cloud {
     organization = "phnorwood"
 
+// adding a comment!
     workspaces {
       name = "learn-terraform-github"
     }
