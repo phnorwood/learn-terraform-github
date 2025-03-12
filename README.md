@@ -1,5 +1,7 @@
 # Automate Terraform with GitHub
 
-Note: This repository has moved to [hashicorp-education/learn-terraform-github-actions](https://github.com/hashicorp-education/learn-terraform-github-actions).
+This demo. leverages Terraform + GitHub to provision AWS resources without the use of GitHub Actions.
 
-This repo is a companion repo to the [Automate Terraform with GitHub Actions tutorial](https://developer.hashicorp.com/terraform/tutorials/automation/github-actions).
+Repository @ [hashicorp-education/learn-terraform-github-actions](https://github.com/hashicorp-education/learn-terraform-github-actions).
+
+Companion repo. to the [Automate Terraform with GitHub Actions tutorial](https://developer.hashicorp.com/terraform/tutorials/automation/github-actions).
