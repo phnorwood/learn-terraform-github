@@ -1,4 +1,4 @@
-# Automate Terraform with GitHub Actions
+# Automate Terraform with GitHub
 
 Note: This repository has moved to [hashicorp-education/learn-terraform-github-actions](https://github.com/hashicorp-education/learn-terraform-github-actions).
 
